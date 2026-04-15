@@ -1,4 +1,4 @@
-a=5
+a=15
 b=10
 
 print("sum=",a+b)
